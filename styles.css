@@ -1,0 +1,45 @@
+      body {
+        background-color: #D3D3D3;   
+        margin: 0; 
+      }
+
+      .title {
+        padding: 5px;
+        background-color: #ffffff; 
+        text-align: center;
+      }
+
+      .card {
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+      }
+
+      .container {
+        padding: 15px;
+      }
+
+      .card-sub-container {
+        padding:0 10px;
+        background-color: #ffffff;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .card-img {
+        object-fit: cover;
+        width: 100%;
+      }
+
+      .card-padding {
+        padding: 5px 0px;
+      } 
+
+      .titulito {
+        background-color: #ffffff;
+        text-align: center;
+        width: 100%;
+
+      }
+  
